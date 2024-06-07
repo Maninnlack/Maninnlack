@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Maninnlack
-- 👀 I’m interested in spiking neural network, python, java, html, css, javascript, mysql
-- 🌱 I’m currently learning at HUST
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in spiking neural network, python, c++.
+- 🌱 I graduated from HUST.
 - 📫 How to reach me 1215156554@qq.com
 
 <!---
